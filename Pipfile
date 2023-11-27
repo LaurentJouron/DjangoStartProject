@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 django = "*"
 pyjwt = "*"
+selenium = "*"
+pytest-django = "*"
+pytest = "*"
 
 [dev-packages]
 
