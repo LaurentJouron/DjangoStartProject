@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue sur le readme de Epic Events 👋</h1>
+<h1 align="center">Bienvenue sur le readme de Django start project 👋</h1>
 <p align="center">
   <a href="https://twitter.com/LaurentJouron">
     <img alt="Twitter: LaurentJouron" 
@@ -75,9 +75,9 @@ Version 0.0.01
 <h1 align="center">Installation de l'API</h1>
 
 * Cloner le projet avec l'url suivante :
-  * ``git clone https://github.com/LaurentJouron/EpicEvents.git``
+  * ``git clone https://github.com/LaurentJouron/DjangoStartProject.git``
 * Déplacez vous dans le dossier:
-  * ``cd EpicEvents``
+  * ``cd DjangoStartProject``
 * Créer un répertoire avec le nom .venv
   * ``mkdir .venv``
 * Installer les dépendances nécessaires:
